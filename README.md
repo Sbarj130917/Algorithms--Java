@@ -1,4 +1,4 @@
-# Algorithms--Java
+# Implementing Algorithms--Java
 
 Single Source Shortest Path and Minimum Spanning Tree Implementation
 
